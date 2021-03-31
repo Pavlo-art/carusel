@@ -1,27 +1,31 @@
-.conteiner{
+.conteiner {
     width: 90%;
-    min-height: 600px ;
+    min-height: 600px;
     margin: 100px auto;
     display: flex;
     flex-direction: column;
 }
-.top{
+
+.top {
     min-height: 500px;
     width: 100%;
 }
-.rad1{
+
+.rad1 {
     height: 50px;
     width: 50px;
     border-radius: 50%;
     opacity: 0.5;
 }
-.rad2{
+
+.rad2 {
     height: 50px;
     width: 50px;
     border-radius: 50%;
     opacity: 0.5;
 }
-.foot{
+
+.foot {
     min-height: 100px;
     width: 100%;
     display: flex;
@@ -29,12 +33,14 @@
     align-items: center;
     position: relative;
 }
-.but3{
+
+.but3 {
     position: absolute;
     top: 60px;
     left: 30px;
 }
-.forma{
+
+.forma {
     min-height: 500px;
     width: 100%;
     display: flex;
@@ -42,7 +48,8 @@
     justify-content: space-between;
     align-items: center;
 }
-.but4{
+
+.but4 {
     position: absolute;
     top: 60px;
     left: 30px;
