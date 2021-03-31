@@ -1,0 +1,50 @@
+.conteiner{
+    width: 90%;
+    min-height: 600px ;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+}
+.top{
+    min-height: 500px;
+    width: 100%;
+}
+.rad1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    opacity: 0.5;
+}
+.rad2{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    opacity: 0.5;
+}
+.foot{
+    min-height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.but3{
+    position: absolute;
+    top: 60px;
+    left: 30px;
+}
+.forma{
+    min-height: 500px;
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.but4{
+    position: absolute;
+    top: 60px;
+    left: 30px;
+    display: none;
+}
